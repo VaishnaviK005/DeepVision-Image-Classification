@@ -96,7 +96,7 @@ DeepVision-Image-Classification
 │   └── eye-disease-classification.ipynb
 │
 ├── report
-│   └── DL_Project_Report.pdf
+│   └── finalreport.pdf
 │
 ├── requirements.txt
 │
@@ -277,7 +277,7 @@ Through this project, I gained practical experience with:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/DeepVision-Image-Classification.git
+git clone https://github.com/VaishnaviK005/DeepVision-Image-Classification.git
 ```
 
 ## Install Dependencies
