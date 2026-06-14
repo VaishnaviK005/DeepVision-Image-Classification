@@ -1,5 +1,7 @@
 # DeepVision: Benchmarking Deep Learning Architectures for Image Classification
 
+##Full Project Report can be accessed here:https://drive.google.com/file/d/1ANq7P3jJELaswDOGoFq6NmNRXU5XrM-K/view?usp=sharing
+
 ## Overview
 
 DeepVision is a comprehensive deep learning study focused on image classification across multiple benchmark datasets. The project investigates how different neural network architectures, optimization strategies, regularization techniques, and transfer learning approaches influence classification performance.
